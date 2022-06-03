@@ -1,16 +1,16 @@
 function soma(a, b) {
-    return(4 + 2)
+    return(a + b)
 }
 function subtracao(a, b) {
-    return(4 - 2)
+    return(a - b)
 }
 
 function divisao(a, b) {
-    return(4 / 2)
+    return(a / b)
 }
 
 function multiplicacao(a, b) {
-    return(4 * 2)
+    return(a * b)
 }
 
 module.exports = {
